@@ -4,7 +4,7 @@ See the syllabus in the `syllabus/` directory (or download [here](https://github
 
 ## Week 1:
 
-**2021-09-06**
+**2021-09-07**
 
 - Introduce the course
 - Study notebooks in [notebooks/L01_linear_algebra](./notebooks/L01_linearalgebra)
