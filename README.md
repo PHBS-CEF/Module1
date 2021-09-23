@@ -2,6 +2,15 @@
 
 See the syllabus in the `syllabus/` directory (or download [here](https://github.com/PHBS-CEF/Module1/raw/main/syllabus/CEF_Math%20and%20Data%20Skills_syllabus.pdf)) for more information
 
+## Week 4
+
+**2021-09-28**
+
+- Study content in the following:
+  - [notebooks/L05_organizing_data_with_pandas2/v1_pandas_data_clean.ipynb](./notebooks/L05_organizing_data_with_pandas2/v1_pandas_data_clean.ipynb)
+  - [notebooks/L05_organizing_data_with_pandas2/v3_pandas_data_merge.ipynb](./notebooks/L05_organizing_data_with_pandas2/v3_pandas_data_merge.ipynb)
+
+
 ## Week 3
 
 **2021-09-24**
