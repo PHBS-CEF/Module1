@@ -2,6 +2,18 @@
 
 See the syllabus in the `syllabus/` directory (or download [here](https://github.com/PHBS-CEF/Module1/raw/main/syllabus/CEF_Math%20and%20Data%20Skills_syllabus.pdf)) for more information
 
+## Week 6
+
+**2021-10-11**
+
+- Pandas groupby
+
+
+## Week 5
+
+**2021-10-08**
+
+
 ## Week 4
 
 **2021-09-28**
